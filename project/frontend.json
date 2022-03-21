@@ -3283,7 +3283,7 @@
                   "y": "21",
                   "properties": {
                     "size": "16",
-                    "text": "Personal Recommendation / Opinion"
+                    "text": "Recomendação / Opinião Pessoal"
                   }
                 },
                 {
@@ -3296,7 +3296,7 @@
                   "y": "118",
                   "properties": {
                     "size": "16",
-                    "text": "I wouldn't recommend"
+                    "text": "Eu não recomendaria"
                   }
                 },
                 {
@@ -3326,7 +3326,7 @@
                   "y": "86",
                   "properties": {
                     "size": "16",
-                    "text": "Order in roadmap not strict (Learn anytime)"
+                    "text": "Ordem no roteiro não estrito<br>(Aprenda a qualquer momento)"
                   }
                 },
                 {
@@ -3371,7 +3371,7 @@
                   "y": "54",
                   "properties": {
                     "size": "16",
-                    "text": "Alternative Option - Pick this or purple"
+                    "text": "Opção alternativa - Escolha este ou roxo"
                   }
                 },
                 {
