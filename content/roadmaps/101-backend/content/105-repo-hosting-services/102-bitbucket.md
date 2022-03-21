@@ -4,7 +4,7 @@ Bitbucket is a Git based hosting and source code repository service that is Atla
 
 Bitbucket offers hosting options via Bitbucket Cloud (Atlassian's servers), Bitbucket Server (customer's on-premise) or Bitbucket Data Centre (number of servers in customers on-premise or cloud environment)
 
-<ResourceGroupTitle>Free Content</ResourceGroupTitle>
+<ResourceGroupTitle>Conteúdo grátis</ResourceGroupTitle>
 <BadgeLink colorScheme='blue' badgeText='Bitbucket Website' href='https://bitbucket.org/product'>Bitbucket Website</BadgeLink>
 <BadgeLink colorScheme='blue' badgeText='Read' href='https://bitbucket.org/product/guides/getting-started/overview#a-brief-overview-of-bitbucket'>A brief overview of Bitbucket</BadgeLink>
 <BadgeLink badgeText='Guide' colorScheme='green' href='https://bitbucket.org/product/guides/basics/bitbucket-interface'>Getting started with Bitbucket</BadgeLink>

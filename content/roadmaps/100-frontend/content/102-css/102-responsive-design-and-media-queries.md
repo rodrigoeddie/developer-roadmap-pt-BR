@@ -2,7 +2,7 @@
 
 Responsive Web Designing is the technique to make your webpages look good on all screen sizes. There are certain techniques used to achieve that e.g. CSS media queries, percentage widths, min or max widths heights etc.
 
-<ResourceGroupTitle>Free Content</ResourceGroupTitle>
+<ResourceGroupTitle>Conteúdo grátis</ResourceGroupTitle>
 
 <BadgeLink colorScheme='yellow' badgeText='Read' href='https://www.w3schools.com/css/css_rwd_intro.asp'>Responsive Web Design</BadgeLink>
 <BadgeLink colorScheme='yellow' badgeText='Read' href='https://web.dev/learn/design/'>Learn Responsive Design</BadgeLink>

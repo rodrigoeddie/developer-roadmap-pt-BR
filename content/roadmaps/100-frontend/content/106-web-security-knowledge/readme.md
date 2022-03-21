@@ -2,7 +2,7 @@
 
 Web security refers to the protective measures taken by the developers to protect the web applications from threats that could affect the business.
 
-<ResourceGroupTitle>Free Content</ResourceGroupTitle>
+<ResourceGroupTitle>Conteúdo grátis</ResourceGroupTitle>
 <BadgeLink badgeText='Read' colorScheme="yellow" href='https://developers.google.com/web/fundamentals/security/encrypt-in-transit/why-https'>Why HTTPS Matters</BadgeLink>
 <BadgeLink badgeText='Read' colorScheme="yellow" href='https://en.wikipedia.org/wiki/OWASP'>Wikipedia - OWASP</BadgeLink>
 <BadgeLink badgeText='Read' colorScheme="yellow" href='https://github.com/0xRadi/OWASP-Web-Checklist'>OWASP Web Application Security Testing Checklist</BadgeLink>

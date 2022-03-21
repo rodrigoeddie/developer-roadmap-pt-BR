@@ -2,7 +2,7 @@
 
 Python is a well known programming language which is both a strongly typed and a dynamically typed language. Being an interpreted language, code is executed as soon as it is written and the Python syntax allows for writing code in functional, procedureal or object-oriented programmatic ways.
 
-<ResourceGroupTitle>Free Content</ResourceGroupTitle>
+<ResourceGroupTitle>Conteúdo grátis</ResourceGroupTitle>
 <BadgeLink colorScheme='blue' badgeText='Python Website' href='https://www.python.org/'>Python Website</BadgeLink>
 <BadgeLink colorScheme='blue' badgeText='Read' href='https://www.python.org/about/gettingstarted/'>Python Getting Started</BadgeLink>
 <BadgeLink badgeText='Course' colorScheme='green' href='https://www.w3schools.com/python/'>W3Schools - Python Tutorial </BadgeLink>

@@ -8,7 +8,7 @@ SOLID is a set of principles applied to object-oriented design (OOD) to create m
 - Interface Segregation
 - Dependency Inversion
 
-<ResourceGroupTitle>Free Content</ResourceGroupTitle>
+<ResourceGroupTitle>Conteúdo grátis</ResourceGroupTitle>
 <BadgeLink colorScheme='blue' badgeText='Original Paper' href='https://web.archive.org/web/20150906155800/http://www.objectmentor.com/resources/articles/Principles_and_Patterns.pdf'>Design Principles and
 Design Patterns</BadgeLink>
 <BadgeLink colorScheme='yellow' badgeText='Read' href='https://www.baeldung.com/solid-principles'>SOLID Principles</BadgeLink>

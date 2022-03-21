@@ -3,7 +3,7 @@
 SEO or Search Engine Optimization is the technique used to optimize your website for better rankings on search engines such as Google, Bing etc.
 
 
-<ResourceGroupTitle>Free Content</ResourceGroupTitle>
+<ResourceGroupTitle>Conteúdo grátis</ResourceGroupTitle>
 
 <BadgeLink colorScheme='yellow' badgeText='Read' href='https://developers.google.com/search/docs'>Google Search Central — SEO Docs</BadgeLink>
 <BadgeLink colorScheme='yellow' badgeText='Read' href='https://github.com/seo/guide'>SEO Guide</BadgeLink>

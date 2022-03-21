@@ -1,8 +1,8 @@
 # Making layouts
 
-Float, grid, flexbox, positioning, display and box model are some of the key topics that are used for making layouts. Use the resources below to learn about these topics: 
+Float, grid, flexbox, positioning, display and box model are some of the key topics that are used for making layouts. Use the resources below to learn about these topics:
 
-<ResourceGroupTitle>Free Content</ResourceGroupTitle>
+<ResourceGroupTitle>Conteúdo grátis</ResourceGroupTitle>
 
 <BadgeLink colorScheme='yellow' badgeText='Read' href='https://flexboxfroggy.com/'>Learn and Practice Flexbox</BadgeLink>
 <BadgeLink colorScheme='yellow' badgeText='Read' href='https://cssgridgarden.com/'>Game for learning CSS Grid</BadgeLink>

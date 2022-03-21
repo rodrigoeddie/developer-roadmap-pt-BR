@@ -2,7 +2,7 @@
 
 [GitHub](https://github.com) is a provider of internet hosting for software development and version control using Git. It offers the distributed version control and source code management functionality of Git, plus its own features.
 
-<ResourceGroupTitle>Free Content</ResourceGroupTitle>
+<ResourceGroupTitle>Conteúdo grátis</ResourceGroupTitle>
 
 <BadgeLink badgeText='Read' href='https://docs.github.com/en/get-started/quickstart/hello-world'>GitHub: Quickstart</BadgeLink>
 <BadgeLink badgeText='Watch' colorScheme='yellow' href='https://www.youtube.com/watch?v=w3jLJU7DT5E'>What is GitHub?</BadgeLink>

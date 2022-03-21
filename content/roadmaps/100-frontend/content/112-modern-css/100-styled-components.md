@@ -2,7 +2,7 @@
 
 Styled-components is a CSS-in-JS library that enables you to write regular CSS and attach it to JavaScript components. With styled-components, you can use the CSS you’re already familiar with instead of having to learn a new styling structure.
 
-<ResourceGroupTitle>Free Content</ResourceGroupTitle>
+<ResourceGroupTitle>Conteúdo grátis</ResourceGroupTitle>
 
 <BadgeLink colorScheme='blue' badgeText='Read' href='https://styled-components.com/'>Official Website</BadgeLink>
 <BadgeLink colorScheme='blue' badgeText='Read' href='https://styled-components.com/docs'>Official Docs</BadgeLink>

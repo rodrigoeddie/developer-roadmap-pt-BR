@@ -3607,7 +3607,7 @@
                   "y": "19",
                   "properties": {
                     "size": "17",
-                    "text": "How does the internet work?"
+                    "text": "Como a internet funciona?"
                   }
                 },
                 {
@@ -3768,7 +3768,7 @@
                   "y": "15",
                   "properties": {
                     "size": "17",
-                    "text": "What is HTTP?"
+                    "text": "O que é HTTP?"
                   }
                 },
                 {
@@ -3848,7 +3848,7 @@
                   "y": "16",
                   "properties": {
                     "size": "17",
-                    "text": "Browsers and how they work?"
+                    "text": "Navegadores e como funcionam?"
                   }
                 },
                 {
@@ -3928,7 +3928,7 @@
                   "y": "17",
                   "properties": {
                     "size": "17",
-                    "text": "DNS and how it works?"
+                    "text": "DNS e como ele funciona?"
                   }
                 },
                 {
@@ -4008,7 +4008,7 @@
                   "y": "13",
                   "properties": {
                     "size": "17",
-                    "text": "What is Domain Name?"
+                    "text": "O que é domínio?"
                   }
                 },
                 {
@@ -4088,7 +4088,7 @@
                   "y": "14",
                   "properties": {
                     "size": "17",
-                    "text": "What is hosting?"
+                    "text": "O que é hospedagem?"
                   }
                 },
                 {

@@ -2,7 +2,7 @@
 
 React is the most popular front-end JavaScript library for building user interfaces. React can also render on the server using Node and power mobile apps using React Native.
 
-<ResourceGroupTitle>Free Content</ResourceGroupTitle>
+<ResourceGroupTitle>Conteúdo grátis</ResourceGroupTitle>
 <BadgeLink colorScheme='blue' badgeText='Framework Website' href='https://reactjs.org/'>React Website</BadgeLink>
 <BadgeLink colorScheme='blue' badgeText='Read' href='https://reactjs.org/tutorial/tutorial.html'>Official Getting Started</BadgeLink>
 <BadgeLink badgeText='Course' colorScheme='green' href='https://egghead.io/courses/the-beginner-s-guide-to-react'>The Beginner's Guide to React</BadgeLink>
