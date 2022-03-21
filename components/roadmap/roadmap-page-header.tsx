@@ -29,7 +29,7 @@ export function RoadmapPageHeader(props: RoadmapPageHeaderType) {
       mb="30px"
     >
       <Container maxW="container.md" position="relative">
-        <NewAlertBanner />
+        {/* <NewAlertBanner /> */}
         <Heading
           as="h1"
           color="black"
@@ -40,7 +40,7 @@ export function RoadmapPageHeader(props: RoadmapPageHeaderType) {
           {roadmap.title}
         </Heading>
         <Text fontSize={['13px', '14px', '15px']}>{roadmap.description}</Text>
-        <Flex justifyContent="space-between" alignItems={'center'} mt="20px">
+        {/* <Flex justifyContent="space-between" alignItems={'center'} mt="20px">
           <Stack isInline>
             <Button
               d={['flex', 'flex']}
@@ -106,7 +106,7 @@ export function RoadmapPageHeader(props: RoadmapPageHeaderType) {
             </Badge>
             Resources are here, try clicking any nodes.
           </Text>
-        )}
+        )} */}
       </Container>
     </Box>
   );

@@ -21,13 +21,13 @@ export default function Roadmaps(props: RoadmapsProps) {
       <GlobalHeader />
       <Helmet
         title={'Developer Roadmaps'}
-        description={'Step by step guides and paths to learn different tools or technologies'}
+        description={'Guias passo a passo e caminhos para aprender diferentes ferramentas ou tecnologias'}
       />
       <Box mb='60px'>
         <PageHeader
-          beforeTitle={<NewAlertBanner />}
+          // beforeTitle={<NewAlertBanner />}
           title={'Developer Roadmaps'}
-          subtitle={'Step by step guides and paths to learn different tools or technologies'}
+          subtitle={'Guias passo a passo e caminhos para aprender diferentes ferramentas ou tecnologias'}
         />
         <Container maxW='container.md' position='relative'>
           <SimpleGrid columns={[1, 1, 2, 2]} mb='30px' spacing={['10px', '10px', '15px']}>
