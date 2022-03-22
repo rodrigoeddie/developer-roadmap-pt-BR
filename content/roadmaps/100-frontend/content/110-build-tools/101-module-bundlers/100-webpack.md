@@ -4,5 +4,5 @@ Webpack is a module bundler. Its main purpose is to bundle JavaScript files for 
 
 <ResourceGroupTitle>Conteúdo grátis</ResourceGroupTitle>
 
-<BadgeLink colorScheme='blue' badgeText='Official Website' href='https://webpack.js.org/'>Webpack Official Website</BadgeLink>
+<BadgeLink colorScheme='blue' badgeText='Site oficial' href='https://webpack.js.org/'>Webpack Site oficial</BadgeLink>
 <BadgeLink colorScheme='blue' badgeText='Official Documentation' href='https://webpack.js.org/concepts/'>Webpack Documentation</BadgeLink>

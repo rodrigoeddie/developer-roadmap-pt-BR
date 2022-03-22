@@ -6,7 +6,7 @@ MongoDB is a source-available cross-platform document-oriented database program.
 
 <ResourceGroupTitle>Conteúdo grátis</ResourceGroupTitle>
 
-<BadgeLink badgeText='Official Website' colorScheme='blue' href='https://www.mongodb.com/'>MongoDB Website</BadgeLink>
+<BadgeLink badgeText='Site oficial' colorScheme='blue' href='https://www.mongodb.com/'>MongoDB Website</BadgeLink>
 <BadgeLink badgeText='Official Documentation' colorScheme='blue' href='https://docs.mongodb.com/'>MongoDB Documentation</BadgeLink>
 <BadgeLink badgeText='Official Courses' href='https://university.mongodb.com/learning_paths/developer'>Learning Path for MongoDB Developers</BadgeLink>
 <BadgeLink badgeText='Sandbox' href='https://mongoplayground.net/'>MongoDB Online Sandbox</BadgeLink>

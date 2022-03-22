@@ -4,5 +4,5 @@ bcrypt is a password hashing function, that has proven been proven reliable and 
 
 <ResourceGroupTitle>Conteúdo grátis</ResourceGroupTitle>
 <BadgeLink badgeText='Watch' href='https://www.youtube.com/watch?v=O6cmuiTBZVs'>bcrypt explained</BadgeLink>
-<BadgeLink colorScheme='yellow' badgeText='Read' href='https://auth0.com/blog/hashing-in-action-understanding-bcrypt/'>Understanding bcrypt</BadgeLink>
+<BadgeLink colorScheme='yellow' badgeText='Leia' href='https://auth0.com/blog/hashing-in-action-understanding-bcrypt/'>Understanding bcrypt</BadgeLink>
 <BadgeLink colorScheme='blue' badgeText='NPM' href='https://www.npmjs.com/package/bcrypt'>bcrypt's npm package</BadgeLink>

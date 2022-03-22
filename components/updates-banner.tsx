@@ -24,7 +24,7 @@ export function UpdatesBanner() {
           fontSize={['25px', '25px', '35px']}
           mb={['5px', '5px', '15px']}
         >
-          Stay Informed
+          Mantenha-se informado
         </Heading>
         <Text
           color="gray.400"
@@ -32,8 +32,7 @@ export function UpdatesBanner() {
           fontSize={['15px', '15px', '16px']}
           mb="20px"
         >
-          Subscribe yourself to get updates, new guides, videos and roadmaps in
-          your inbox.
+          Inscreva-se para receber atualizações, novos guias, vídeos e roteiros em sua caixa de entrada.
         </Text>
 
         <Flex flexDirection={['column', 'column', 'row']}>
@@ -48,10 +47,10 @@ export function UpdatesBanner() {
               colorScheme="green"
               _hover={{ color: 'green.200', textDecoration: 'none' }}
             >
-              Subscribe to Updates
+              Inscreva-se para receber atualizações
             </Button>
             <Text color="gray.500" fontSize="13px" mt="5px">
-              Free subscription for updates
+              Assinatura gratuita para receber atualizações
             </Text>
           </Box>
           <Box>
@@ -64,12 +63,12 @@ export function UpdatesBanner() {
               _hover={{ textDecoration: 'none', bg: 'yellow.500' }}
               colorScheme="yellow"
             >
-              Updates & Paid Content
+              Atualizações e conteúdo pago
             </Button>
             <Text color="gray.500" fontSize="13px" mt="5px">
-              Support the project by paying as little as{' '}
+            Apoie o projeto pagando {' '}
               <Text as="span" fontWeight={600}>
-                5$ per month
+                5$ por mês
               </Text>
             </Text>
           </Box>

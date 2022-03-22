@@ -4,7 +4,7 @@ CAP is an acronym that stands for Consistency, Availability and Partition Tolera
 
 <ResourceGroupTitle>Conteúdo grátis</ResourceGroupTitle>
 <BadgeLink colorScheme='purple' badgeText='Watch' href='https://www.youtube.com/watch?v=_RbsFXWRZ10'>What is CAP Theorem?</BadgeLink>
-<BadgeLink colorScheme='yellow' badgeText='Read' href='https://www.bmc.com/blogs/cap-theorem/'>What is CAP Theorem?</BadgeLink>
-<BadgeLink colorScheme='yellow' badgeText='Read' href='https://en.wikipedia.org/wiki/CAP_theorem'>CAP Theorem - Wikipedia</BadgeLink>
-<BadgeLink colorScheme='yellow' badgeText='Read' href='https://mwhittaker.github.io/blog/an_illustrated_proof_of_the_cap_theorem/'>An Illustrated Proof of the CAP Theorem</BadgeLink>
-<BadgeLink colorScheme='yellow' badgeText='Read' href='https://www.ibm.com/uk-en/cloud/learn/cap-theorem'>CAP Theorem and it's applications in NoSQL Databases</BadgeLink>
+<BadgeLink colorScheme='yellow' badgeText='Leia' href='https://www.bmc.com/blogs/cap-theorem/'>What is CAP Theorem?</BadgeLink>
+<BadgeLink colorScheme='yellow' badgeText='Leia' href='https://en.wikipedia.org/wiki/CAP_theorem'>CAP Theorem - Wikipedia</BadgeLink>
+<BadgeLink colorScheme='yellow' badgeText='Leia' href='https://mwhittaker.github.io/blog/an_illustrated_proof_of_the_cap_theorem/'>An Illustrated Proof of the CAP Theorem</BadgeLink>
+<BadgeLink colorScheme='yellow' badgeText='Leia' href='https://www.ibm.com/uk-en/cloud/learn/cap-theorem'>CAP Theorem and it's applications in NoSQL Databases</BadgeLink>

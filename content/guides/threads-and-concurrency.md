@@ -4,5 +4,5 @@ A thread is an execution context in which the instructions to the CPU can be sch
 
 <ResourceGroupTitle>Conteúdo grátis</ResourceGroupTitle>
 <BadgeLink badgeText='Watch' href='https://www.youtube.com/watch?v=olYdb0DdGtM'>Threading Tutorial #1 - Concurrency, Threading and Parallelism</BadgeLink>
-<BadgeLink colorScheme='yellow' badgeText='Read' href='https://medium.com/@akhandmishra/operating-system-threads-and-concurrency-aec2036b90f8'>Operating System: Threads and Concurrency</BadgeLink>
-<BadgeLink colorScheme='yellow' badgeText='Read' href='https://web.mit.edu/6.005/www/fa14/classes/17-concurrency/'>Reading 17: Concurrency</BadgeLink>
+<BadgeLink colorScheme='yellow' badgeText='Leia' href='https://medium.com/@akhandmishra/operating-system-threads-and-concurrency-aec2036b90f8'>Operating System: Threads and Concurrency</BadgeLink>
+<BadgeLink colorScheme='yellow' badgeText='Leia' href='https://web.mit.edu/6.005/www/fa14/classes/17-concurrency/'>Reading 17: Concurrency</BadgeLink>

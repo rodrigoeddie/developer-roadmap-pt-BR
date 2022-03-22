@@ -6,7 +6,7 @@ Bitbucket offers hosting options via Bitbucket Cloud (Atlassian's servers), Bitb
 
 <ResourceGroupTitle>Conteúdo grátis</ResourceGroupTitle>
 <BadgeLink colorScheme='blue' badgeText='Bitbucket Website' href='https://bitbucket.org/product'>Bitbucket Website</BadgeLink>
-<BadgeLink colorScheme='blue' badgeText='Read' href='https://bitbucket.org/product/guides/getting-started/overview#a-brief-overview-of-bitbucket'>A brief overview of Bitbucket</BadgeLink>
+<BadgeLink colorScheme='blue' badgeText='Leia' href='https://bitbucket.org/product/guides/getting-started/overview#a-brief-overview-of-bitbucket'>A brief overview of Bitbucket</BadgeLink>
 <BadgeLink badgeText='Guide' colorScheme='green' href='https://bitbucket.org/product/guides/basics/bitbucket-interface'>Getting started with Bitbucket</BadgeLink>
 <BadgeLink badgeText='Guide' colorScheme='green' href='https://www.atlassian.com/git/tutorials/learn-git-with-bitbucket-cloud'>Using Git with Bitbucket Cloud</BadgeLink>
 <BadgeLink badgeText='Watch' href='https://www.youtube.com/watch?v=M44nEyd_5To'>Bitbucket tutorial | How to use Bitbucket Cloud</BadgeLink>

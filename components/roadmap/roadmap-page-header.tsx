@@ -29,7 +29,7 @@ export function RoadmapPageHeader(props: RoadmapPageHeaderType) {
       mb="30px"
     >
       <Container maxW="container.md" position="relative">
-        {/* <NewAlertBanner /> */}
+        <NewAlertBanner />
         <Heading
           as="h1"
           color="black"
@@ -40,7 +40,7 @@ export function RoadmapPageHeader(props: RoadmapPageHeaderType) {
           {roadmap.title}
         </Heading>
         <Text fontSize={['13px', '14px', '15px']}>{roadmap.description}</Text>
-        {/* <Flex justifyContent="space-between" alignItems={'center'} mt="20px">
+        <Flex justifyContent="space-between" alignItems={'center'} mt="20px">
           <Stack isInline>
             <Button
               d={['flex', 'flex']}
@@ -55,7 +55,7 @@ export function RoadmapPageHeader(props: RoadmapPageHeaderType) {
             >
               &larr;
               <Text as="span" d={['none', 'inline']} ml="5px">
-                All Roadmaps
+                Todos os roteiros
               </Text>
             </Button>
 
@@ -72,7 +72,7 @@ export function RoadmapPageHeader(props: RoadmapPageHeaderType) {
                 variant="solid"
                 _hover={{ textDecoration: 'none' }}
               >
-                Download
+                Baixar [EN]
               </Button>
             )}
             <Button
@@ -102,11 +102,11 @@ export function RoadmapPageHeader(props: RoadmapPageHeaderType) {
             rounded="3px"
           >
             <Badge pos="relative" top={'-1px'} mr="6px" colorScheme="yellow">
-              New
+              Novo
             </Badge>
-            Resources are here, try clicking any nodes.
+            Os recursos estão aqui, tente clicar em qualquer um.
           </Text>
-        )} */}
+        )}
       </Container>
     </Box>
   );

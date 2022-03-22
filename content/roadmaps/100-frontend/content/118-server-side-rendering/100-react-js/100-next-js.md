@@ -5,7 +5,7 @@ enabling React based web applications functionalities such as server-side
 rendering and generating static websites.
 
 <ResourceGroupTitle>Free Resources</ResourceGroupTitle>
-<BadgeLink colorScheme='blue' badgeText='Website' href='https://nextjs.org/'>Official Website</BadgeLink>
+<BadgeLink colorScheme='blue' badgeText='Website' href='https://nextjs.org/'>Site oficial</BadgeLink>
 <BadgeLink colorScheme='blue' badgeText='Docs' href='https://nextjs.org/docs/getting-started'>Official Docs for Getting Started</BadgeLink>
 <BadgeLink colorScheme='purple' badgeText='Watch' href='https://masteringnextjs.com/'>Mastering Next.js</BadgeLink>
 <BadgeLink colorScheme='purple' badgeText='Watch' href='https://youtu.be/1WmNXEVia8I'>Next.js for Beginners - freeCodeCamp</BadgeLink>

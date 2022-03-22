@@ -4,5 +4,5 @@ Functional testing is where software is tested to ensure functional requirements
 It contrasts with non-functional testing, which includes performance, load, scalability, and penetration testing.
 
 <ResourceGroupTitle>Conteúdo grátis</ResourceGroupTitle>
-<BadgeLink colorScheme='yellow' badgeText='Read' href='https://www.guru99.com/functional-testing.html'>What is Functional Testing?</BadgeLink>
+<BadgeLink colorScheme='yellow' badgeText='Leia' href='https://www.guru99.com/functional-testing.html'>What is Functional Testing?</BadgeLink>
 <BadgeLink badgeText='Watch' href='https://youtu.be/j_79AXkG4PY'>Functional Testing vs Non-Functional Testing</BadgeLink>

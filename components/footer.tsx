@@ -6,24 +6,24 @@ function NavigationLinks() {
   return (
     <>
       <Stack isInline d={['none', 'none', 'flex']} color='gray.400' fontWeight={600} spacing='30px'>
-        <Link _hover={{ color: 'white' }} href='/roadmaps'>Roadmaps</Link>
-        <Link _hover={{ color: 'white' }} href='/guides'>Guides</Link>
-        <Link _hover={{ color: 'white' }} href='/watch'>Videos</Link>
-        <Link _hover={{ color: 'white' }} href='/about'>About</Link>
+        <Link _hover={{ color: 'white' }} href='/roadmaps'>Roteiros</Link>
+        <Link _hover={{ color: 'white' }} href='/guides'>Guias</Link>
+        <Link _hover={{ color: 'white' }} href='/watch'>Vídeos</Link>
+        <Link _hover={{ color: 'white' }} href='/about'>Sobre</Link>
         <Link _hover={{ color: 'white' }} href={siteConfig.url.youtube} target='_blank'>YouTube</Link>
       </Stack>
 
       <Stack d={['flex', 'flex', 'none']} color='gray.400' fontWeight={600} spacing={0}>
         <Link py='7px' borderBottomWidth={1} borderBottomColor='gray.800' _hover={{ color: 'white' }}
-              href='/roadmaps'>Roadmaps</Link>
+              href='/roadmaps'>Roteiros</Link>
         <Link py='7px' borderBottomWidth={1} borderBottomColor='gray.800' _hover={{ color: 'white' }}
-              href='/guides'>Guides</Link>
+              href='/guides'>Guias</Link>
         <Link py='7px' borderBottomWidth={1} borderBottomColor='gray.800' _hover={{ color: 'white' }}
-              href='/watch'>Videos</Link>
+              href='/watch'>Vídeos</Link>
         <Link py='7px' borderBottomWidth={1} borderBottomColor='gray.800' _hover={{ color: 'white' }}
-              href='/thanks'>Thanks</Link>
+              href='/thanks'>Agradecimentos</Link>
         <Link py='7px' borderBottomWidth={1} borderBottomColor='gray.800' _hover={{ color: 'white' }}
-              href='/about'>About</Link>
+              href='/about'>Sobre</Link>
         <Link py='7px' _hover={{ color: 'white' }} target='_blank'
               href={siteConfig.url.youtube}>YouTube</Link>
       </Stack>
@@ -44,23 +44,22 @@ export function Footer() {
               <Image alt='' h='25px' w='25px' src='/logo.svg' mr='6px' />
               roadmap.sh
             </Link>
-            <Text as='span' mx='7px'>by</Text>
+            <Text as='span' mx='7px'>por</Text>
             <Link bg='blue.500' px='6px' py='2px' rounded='4px' color='white' fontWeight={600} fontSize='13px'
                   _hover={{ textDecoration: 'none', bg: 'blue.600' }} href={siteConfig.url.twitter}
                   target='_blank'>@kamranahmedse</Link>
           </Flex>
 
-          <Text my='15px' fontSize='14px' color='gray.500'>Community created roadmaps, articles, resources and
-            journeys to help you choose your path and grow in your career.</Text>
+          <Text my='15px' fontSize='14px' color='gray.500'>A comunidade criou roteiros, artigos, recursos e jornadas para ajudá-lo a escolher seu caminho e crescer em sua carreira.</Text>
 
           <Text fontSize='14px' color='gray.500'>
             <Text as='span' mr='10px'>&copy; roadmap.sh</Text>&middot;
             <Link href='/about' _hover={{ textDecoration: 'none', color: 'white' }} color='gray.400'
-                  mx='10px'>FAQs</Link>&middot;
+                  mx='10px'>FAQ</Link>&middot;
             <Link href='/terms' _hover={{ textDecoration: 'none', color: 'white' }} color='gray.400'
-                  mx='10px'>Terms</Link>&middot;
+                  mx='10px'>Termos</Link>&middot;
             <Link href='/privacy' _hover={{ textDecoration: 'none', color: 'white' }} color='gray.400'
-                  mx='10px'>Privacy</Link>
+                  mx='10px'>Privacidade</Link>
           </Text>
         </Box>
       </Container>

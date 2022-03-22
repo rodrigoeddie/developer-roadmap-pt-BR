@@ -5,4 +5,4 @@
 <ResourceGroupTitle>Conteúdo grátis</ResourceGroupTitle>
 
 <BadgeLink badgeText='Visit' colorScheme="green" href='https://bitbucket.com/'>BitBucket Website</BadgeLink>
-<BadgeLink badgeText='Read' href='https://bitbucket.org/product/guides'>How to use BitBucket?</BadgeLink>
+<BadgeLink badgeText='Leia' href='https://bitbucket.org/product/guides'>How to use BitBucket?</BadgeLink>

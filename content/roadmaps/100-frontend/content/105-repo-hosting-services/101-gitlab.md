@@ -5,4 +5,4 @@
 <ResourceGroupTitle>Conteúdo grátis</ResourceGroupTitle>
 
 <BadgeLink badgeText='Visit' colorScheme="green" href='https://gitlab.com/'>GitLab Website</BadgeLink>
-<BadgeLink badgeText='Read' href='https://docs.gitlab.com/'>GitLab Documentation</BadgeLink>
+<BadgeLink badgeText='Leia' href='https://docs.gitlab.com/'>GitLab Documentation</BadgeLink>

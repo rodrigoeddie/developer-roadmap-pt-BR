@@ -4,5 +4,5 @@ Rollup is a module bundler for JavaScript which compiles small pieces of code in
 
 <ResourceGroupTitle>Conteúdo grátis</ResourceGroupTitle>
 
-<BadgeLink colorScheme='blue' badgeText='Read' href='https://rollupjs.org/'>Official Website and Docs</BadgeLink>
+<BadgeLink colorScheme='blue' badgeText='Leia' href='https://rollupjs.org/'>Site oficial and Docs</BadgeLink>
 <BadgeLink badgeText='Watch' href='https://www.youtube.com/watch?v=ICYLOZuFMz8'>How to Set Up JavaScript Bundling Using Rollup</BadgeLink>

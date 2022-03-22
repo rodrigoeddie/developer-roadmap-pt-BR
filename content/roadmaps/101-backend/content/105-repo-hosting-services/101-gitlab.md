@@ -4,5 +4,5 @@ GitLab is a provider of internet hosting for software development and version co
 
 <ResourceGroupTitle>Conteúdo grátis</ResourceGroupTitle>
 
-<BadgeLink badgeText='Official Website' colorScheme='blue' href='https://gitlab.com/'>GitLab Website</BadgeLink>
+<BadgeLink badgeText='Site oficial' colorScheme='blue' href='https://gitlab.com/'>GitLab Website</BadgeLink>
 <BadgeLink badgeText='Official Documentation' colorScheme='blue' href='https://docs.gitlab.com/'>GitLab Documentation</BadgeLink>

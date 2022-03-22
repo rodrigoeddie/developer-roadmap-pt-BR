@@ -4,7 +4,7 @@ Elastic search at its core is a document-oriented search engine. It is a documen
 
 <ResourceGroupTitle>Conteúdo grátis</ResourceGroupTitle>
 
-<BadgeLink colorScheme='blue' badgeText='Official Website' href='https://www.elastic.co/elasticsearch/'>Elasticsearch Website</BadgeLink>
+<BadgeLink colorScheme='blue' badgeText='Site oficial' href='https://www.elastic.co/elasticsearch/'>Elasticsearch Website</BadgeLink>
 <BadgeLink colorScheme='blue' badgeText='Official Docs' href='https://www.elastic.co/guide/index.html'>Elasticsearch Documentation</BadgeLink>
 
 
