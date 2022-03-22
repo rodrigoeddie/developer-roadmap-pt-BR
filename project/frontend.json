@@ -4216,7 +4216,7 @@
                   "y": "15",
                   "properties": {
                     "size": "17",
-                    "text": "Learn the basics"
+                    "text": "Aprenda o básico"
                   }
                 },
                 {
@@ -4296,7 +4296,7 @@
                   "y": "13",
                   "properties": {
                     "size": "17",
-                    "text": "Writing Semantic HTML"
+                    "text": "Escrevendo HTML semântico"
                   }
                 },
                 {
@@ -4376,7 +4376,7 @@
                   "y": "13",
                   "properties": {
                     "size": "17",
-                    "text": "Forms and Validations"
+                    "text": "Formulários e validações"
                   }
                 },
                 {
@@ -4456,7 +4456,7 @@
                   "y": "17",
                   "properties": {
                     "size": "17",
-                    "text": "Conventions and Best Practices"
+                    "text": "Convenções e boas práticas"
                   }
                 },
                 {
@@ -4536,7 +4536,7 @@
                   "y": "16",
                   "properties": {
                     "size": "17",
-                    "text": "Accessibility"
+                    "text": "Accessibilidade"
                   }
                 },
                 {
@@ -4616,7 +4616,7 @@
                   "y": "14",
                   "properties": {
                     "size": "17",
-                    "text": "SEO Basics"
+                    "text": "O básico em SEO"
                   }
                 },
                 {
@@ -4744,7 +4744,7 @@
                   "y": "13",
                   "properties": {
                     "size": "17",
-                    "text": "Learn the basics"
+                    "text": "Aprenda o básico"
                   }
                 },
                 {
@@ -4824,7 +4824,7 @@
                   "y": "15",
                   "properties": {
                     "size": "17",
-                    "text": "Making Layouts"
+                    "text": "Montando layouts"
                   }
                 },
                 {
@@ -4904,7 +4904,7 @@
                   "y": "12",
                   "properties": {
                     "size": "14",
-                    "text": "Responsive design and Media Queries"
+                    "text": "Design responsivo e Media Queries"
                   }
                 },
                 {
@@ -5176,7 +5176,7 @@
                   "y": "16",
                   "properties": {
                     "size": "17",
-                    "text": "Syntax and Basic Constructs"
+                    "text": "Sintaxe e Construções Básicas"
                   }
                 },
                 {
@@ -5256,7 +5256,7 @@
                   "y": "13",
                   "properties": {
                     "size": "17",
-                    "text": "Learn DOM Manipulation"
+                    "text": "Aprenda manipulação de DOM"
                   }
                 },
                 {
@@ -5336,7 +5336,7 @@
                   "y": "13",
                   "properties": {
                     "size": "17",
-                    "text": "Learn Fetch API / Ajax (XHR)"
+                    "text": "Aprenda Fetch API / Ajax (XHR)"
                   }
                 },
                 {
@@ -5416,7 +5416,7 @@
                   "y": "15",
                   "properties": {
                     "size": "17",
-                    "text": "ES6+ and modular JavaScript"
+                    "text": "ES6+ e JavaScript Modular"
                   }
                 },
                 {
@@ -5524,7 +5524,7 @@
                   "y": "19",
                   "properties": {
                     "size": "17",
-                    "text": "Understand the concepts"
+                    "text": "Entenda os conceitos"
                   }
                 },
                 {
@@ -5600,12 +5600,12 @@
                   "w": "201",
                   "measuredW": "189",
                   "measuredH": "25",
-                  "x": "65",
+                  "x": "40",
                   "y": "15",
                   "properties": {
                     "bold": "true",
                     "size": "17",
-                    "text": "Version Control Systems"
+                    "text": "Sistemas de controle de versão"
                   }
                 },
                 {
@@ -5619,7 +5619,7 @@
                   "y": "40",
                   "properties": {
                     "size": "15",
-                    "text": "What are they and why you should use one"
+                    "text": "O que são e por que você deve usar um"
                   }
                 }
               ]
@@ -5668,7 +5668,7 @@
                   "properties": {
                     "bold": "true",
                     "size": "17",
-                    "text": "Basic Usage of Git"
+                    "text": "Uso básico do Git"
                   }
                 },
                 {
@@ -5744,12 +5744,12 @@
                   "w": "189",
                   "measuredW": "171",
                   "measuredH": "25",
-                  "x": "77",
+                  "x": "20",
                   "y": "15",
                   "properties": {
                     "bold": "true",
                     "size": "17",
-                    "text": "Repo hosting services"
+                    "text": "Serviços de hospedagem de repositórios"
                   }
                 },
                 {
@@ -5763,7 +5763,7 @@
                   "y": "41",
                   "properties": {
                     "size": "15",
-                    "text": "Create account and Learn to use GitHub"
+                    "text": "Crie uma conta e aprenda a usar o GitHub"
                   }
                 }
               ]
@@ -6083,12 +6083,12 @@
                   "w": "203",
                   "measuredW": "192",
                   "measuredH": "25",
-                  "x": "94",
+                  "x": "50",
                   "y": "23",
                   "properties": {
                     "bold": "true",
                     "size": "17",
-                    "text": "Web Security Knowledge"
+                    "text": "Conhecimento de segurança na web"
                   }
                 },
                 {
@@ -6165,7 +6165,7 @@
                   "y": "14",
                   "properties": {
                     "size": "17",
-                    "text": "npm and yarn both are fine, pick"
+                    "text": "npm e yarn ambos são bons,"
                   }
                 },
                 {
@@ -6179,7 +6179,7 @@
                   "y": "67",
                   "properties": {
                     "size": "17",
-                    "text": "much difference."
+                    "text": "não há muita diferença."
                   }
                 },
                 {
@@ -6193,7 +6193,7 @@
                   "y": "41",
                   "properties": {
                     "size": "17",
-                    "text": "one or learn both, there is not"
+                    "text": "escolha um ou aprenda ambos,"
                   }
                 }
               ]
@@ -6220,7 +6220,7 @@
                   "ID": "0",
                   "typeID": "TextArea",
                   "zOrder": "0",
-                  "w": "211",
+                  "w": "267",
                   "h": "53",
                   "measuredW": "200",
                   "measuredH": "140",
@@ -6234,7 +6234,7 @@
                   "ID": "1",
                   "typeID": "Label",
                   "zOrder": "1",
-                  "w": "154",
+                  "w": "200",
                   "measuredW": "150",
                   "measuredH": "25",
                   "x": "29",
@@ -6242,7 +6242,7 @@
                   "properties": {
                     "bold": "true",
                     "size": "17",
-                    "text": "Package Managers"
+                    "text": "Gerenciadores de Pacotes"
                   }
                 }
               ]
@@ -6453,7 +6453,7 @@
                   "properties": {
                     "bold": "true",
                     "size": "17",
-                    "text": "CSS Architecture"
+                    "text": "Arquitetura CSS"
                   }
                 },
                 {
@@ -6467,7 +6467,7 @@
                   "y": "51",
                   "properties": {
                     "size": "15",
-                    "text": "With modern frameworks and CSS-in-JS you don't"
+                    "text": "Com frameworks modernos e CSS-in-JS você não"
                   }
                 },
                 {
@@ -6481,7 +6481,7 @@
                   "y": "77",
                   "properties": {
                     "size": "15",
-                    "text": "have to worry about these anymore but still it would"
+                    "text": "tem que se preocupar mais com isso, mas ainda assim seria"
                   }
                 },
                 {
@@ -6495,7 +6495,7 @@
                   "y": "103",
                   "properties": {
                     "size": "15",
-                    "text": "be a good idea to get familiarized with BEM atleast."
+                    "text": "uma boa idéia se familiarizar com o BEM pelo menos."
                   }
                 }
               ]
