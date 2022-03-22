@@ -6466,8 +6466,8 @@
                   "x": "19",
                   "y": "51",
                   "properties": {
-                    "size": "15",
-                    "text": "Com frameworks modernos e CSS-in-JS você não"
+                    "size": "14",
+                    "text": "Com frameworks modernos e CSS-in-JS você não tem"
                   }
                 },
                 {
@@ -6480,8 +6480,8 @@
                   "x": "19",
                   "y": "77",
                   "properties": {
-                    "size": "15",
-                    "text": "tem que se preocupar mais com isso, mas ainda assim seria"
+                    "size": "14",
+                    "text": "que se preocupar mais com isso, mas ainda assim seria"
                   }
                 },
                 {
@@ -6494,7 +6494,7 @@
                   "x": "19",
                   "y": "103",
                   "properties": {
-                    "size": "15",
+                    "size": "14",
                     "text": "uma boa idéia se familiarizar com o BEM pelo menos."
                   }
                 }
@@ -6760,7 +6760,7 @@
                   "properties": {
                     "bold": "true",
                     "size": "17",
-                    "text": "CSS Preprocessors"
+                    "text": "Pré-processadores CSS"
                   }
                 },
                 {
@@ -6773,8 +6773,8 @@
                   "x": "18",
                   "y": "49",
                   "properties": {
-                    "size": "15",
-                    "text": "With how the modern frameworks there has been"
+                    "size": "14",
+                    "text": "Como os frameworks modernos tem dado mais impulso"
                   }
                 },
                 {
@@ -6787,8 +6787,8 @@
                   "x": "18",
                   "y": "76",
                   "properties": {
-                    "size": "15",
-                    "text": "more push towards CSS-in-JS so you may not need"
+                    "size": "14",
+                    "text": "em CSS-in-JS, então você pode não precisar deles,"
                   }
                 },
                 {
@@ -6801,8 +6801,8 @@
                   "x": "18",
                   "y": "102",
                   "properties": {
-                    "size": "15",
-                    "text": "these but still a good idea to familiarize yourself."
+                    "size": "14",
+                    "text": "mas ainda é uma boa idéia se familiarizar."
                   }
                 }
               ]
@@ -7057,7 +7057,7 @@
                   "ID": "0",
                   "typeID": "TextArea",
                   "zOrder": "0",
-                  "w": "214",
+                  "w": "235",
                   "h": "50",
                   "measuredW": "200",
                   "measuredH": "140",
@@ -7073,12 +7073,12 @@
                   "zOrder": "1",
                   "measuredW": "85",
                   "measuredH": "25",
-                  "x": "62",
+                  "x": "10",
                   "y": "13",
                   "properties": {
                     "bold": "true",
                     "size": "17",
-                    "text": "Build Tools"
+                    "text": "Ferramentas de construção"
                   }
                 }
               ]
@@ -7126,7 +7126,7 @@
                   "properties": {
                     "bold": "true",
                     "size": "17",
-                    "text": "Task Runners"
+                    "text": "Executores de tarefas"
                   }
                 }
               ]
